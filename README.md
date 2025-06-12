@@ -1,2 +1,2 @@
 # hte
-Hetrogeneous treatment effects
+Ivenstigating hetrogeneous treatment effects
